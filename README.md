@@ -1,1 +1,1 @@
-Jogo de AdivinhaÃ§Ã£o - aprendendo funÃ§Ãµes bÃ¡sicas da linguagem C
+Jogo de Adivinhação - aprendendo funções básicas da linguagem C
